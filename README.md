@@ -16,21 +16,24 @@ This project analyzes global retail sales data to answer key business questions 
 ### 1. Total Sales by Year
 - Analyzed total sales for each year to identify trends over time.
 - 📈 Visualization: Line chart of yearly sales performance  
-  ![image](https://github.com/user-attachments/assets/26259f88-c054-475c-a347-959600faac5d)
+  ![image](https://github.com/user-attachments/assets/17444bbf-e166-4398-9d04-8ba32fd814f3)
+
 
 ---
 
 ### 2. Top Country for Classic Car Sales in 2004
 - Filtered sales for the *Classic Cars* product line in 2004.
 - 🌍 Visualization: Bar chart of top countries by total sales  
-  ![image](https://github.com/user-attachments/assets/779bf5eb-dcf4-45b7-9915-f76d56a4d9bc)
+  ![image](https://github.com/user-attachments/assets/5d34309d-b85f-45f9-8ff9-383f625d60cc)
+
 
 ---
 
 ### 3. Most Sold Product Line by Quantity (Sep 2003 – Mar 2004)
 - Evaluated quantity ordered to determine product popularity during this period.
 - 📦 Visualization: Line chart of product line sales volume  
-  ![image](https://github.com/user-attachments/assets/40737ec2-c4e2-4a61-8361-2925739f9edc)
+  ![Uploading image.png…]()
+
 
 ---
 
