@@ -32,7 +32,7 @@ This project analyzes global retail sales data to answer key business questions 
 ### 3. Most Sold Product Line by Quantity (Sep 2003 – Mar 2004)
 - Evaluated quantity ordered to determine product popularity during this period.
 - 📦 Visualization: Line chart of product line sales volume  
-  ![Uploading image.png…]()
+  ![image](https://github.com/user-attachments/assets/96a152e9-4c44-4e47-aa84-c00429975712)
 
 
 ---
