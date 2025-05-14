@@ -1,4 +1,4 @@
-# 📊 Sales Analysis Case Study
+# 📊 RevoU - Sales Analysis Case Study
 
 This project analyzes global retail sales data to answer key business questions and provide insights into sales trends, product performance, and customer behavior.
 
